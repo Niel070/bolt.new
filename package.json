@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@remix-run/dev": "^2.3.1",
     "vite": "^5.0.0"
   }
 }
